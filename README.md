@@ -4,7 +4,7 @@
 
 My name is Nadin!
 
-I'm currently working as Senior QA engineer - SBER
+I'm currently working as Senior QA Engineer - SBER
 
 :computer: I'm learning how to develop autotests
 
