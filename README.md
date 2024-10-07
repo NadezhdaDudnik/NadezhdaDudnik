@@ -31,7 +31,7 @@ I'm currently working as Senior QA Engineer - SBER
 
 ### Courses:
 <table width="100%" border='0'>
-    <tr><td width="10%" valign="bottom"><img src="images/med_green.png"></td><td valign="middle"><<Wexler.io - Большой курс Python</br>Practical Python Course: from basics to advanced</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="images/med_green.png"></td><td valign="middle">Wexler.io Большой курс Python</br>Practical Python Course: from basics to advanced</td></tr>
     <tr><td width="10%" valign="bottom"><img src="images/stepik.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования с помощью Selenium и Python</br></td></tr>
     <tr><td width="10%" valign="bottom"><img src="images/it_wizard.png"></td><td valign="middle">IT-Wizard</br>Backend Automation QA Engineer и REST and GRPC API test automation</td></tr>
 </table>
