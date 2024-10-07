@@ -10,9 +10,9 @@ I'm currently working as Senior QA engineer - SBER
 
 :envelope: You can contact me via telegram: <a target="_blank" href="https://t.me/nadin_qa">@nadin_qa</a>
 
-### Education and courses:
+### Hard skills:
 
-## Hard skills:
+### Education and courses:
 
 ### Tools and Technologies:
 
