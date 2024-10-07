@@ -6,6 +6,9 @@ My name is Nadin!
 
 I'm currently working as Senior QA Engineer - SBER
 
+Mentor QA - 3.5 years
+In Testing - 9 years
+
 :computer: I'm learning how to develop autotests
 
 :envelope: You can contact me via telegram: <a target="_blank" href="https://t.me/nadin_qa">@nadin_qa</a>
@@ -34,6 +37,8 @@ I'm currently working as Senior QA Engineer - SBER
     <tr><td width="10%" valign="bottom"><img src="images/med_green.png"></td><td valign="middle">Wexler.io Большой курс Python</br>Practical Python Course: from basics to advanced</td></tr>
     <tr><td width="10%" valign="bottom"><img src="images/stepik.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования с помощью Selenium и Python</br></td></tr>
     <tr><td width="10%" valign="bottom"><img src="images/it_wizard.png"></td><td valign="middle">IT-Wizard</br>Backend Automation QA Engineer и REST and GRPC API test automation</td></tr>
+	<tr><td width="10%" valign="bottom"><img src="images/otus.svg"></td><td valign="middle">OTUS</br>QA Lead</td></tr>
+	<tr><td width="10%" valign="bottom"><img src="images/otus.svg"></td><td valign="middle">OTUS</br>Fullstack Educator </td></tr>
 </table>
 
 ### Example of my autotest project:
