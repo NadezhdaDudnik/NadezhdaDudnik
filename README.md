@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**NadezhdaDudnik/NadezhdaDudnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+My name is Nadin!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working as Senior QA engineer - SBER
+
+:computer: I'm learning how to develop autotests
+
+:envelope: You can contact me via telegram: <a target="_blank" href="https://t.me/nadin_qa">@nadin_qa</a>
+
+### Education and courses:
+
+## Hard skills:
+
+### Tools and Technologies:
+
+### Example of my autotest project:
