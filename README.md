@@ -1,17 +1,19 @@
-## Hi there 👋
+## Рада приветствовать! 👋
 
-### About me
+### О себе
 
-My name is Nadin!
+Меня зовут Надежда - Nadin!
 
-I'm currently working as Senior QA Engineer - SBER
+Я работаю как Senior QA Engineer и Релиз- Менеджером - SBER
 
-Mentor QA - 5 years
-In Testing - 10 years
+Mentor QA - 5 лет
+В тестировании - 10 лет
+Блогер - 5 лет, канал по тестированию @protestinginfo
 
-:computer: I'm learning how to develop autotests
+:computer: На данный момент изучаю область AI и повторяю автоматизацию тестирования на Python, заинтересована системным анализом и архитектурой сервисов.
 
-:envelope: You can contact me via telegram: <a target="_blank" href="https://t.me/nadin_qa">@nadin_qa</a>
+:envelope: Со мной можно связаться
+telegram: <a target="_blank" href="https://t.me/nadin_qa">@nadin_qa</a>
 
 
 ### Tools and Technologies:
