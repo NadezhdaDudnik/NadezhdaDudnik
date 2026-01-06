@@ -6,8 +6,8 @@ My name is Nadin!
 
 I'm currently working as Senior QA Engineer - SBER
 
-Mentor QA - 3.5 years
-In Testing - 9 years
+Mentor QA - 5 years
+In Testing - 10 years
 
 :computer: I'm learning how to develop autotests
 
